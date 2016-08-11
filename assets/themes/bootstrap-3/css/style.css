@@ -32,7 +32,8 @@ h1, h2, h3, h4 {
 }
 
 p > a,
-h2 > a {
+h2 > a,
+#impressum {
      box-shadow: 0 -2px 0 #66a0a1 inset;
      color: inherit;
 }
@@ -102,9 +103,10 @@ h2 > a:hover {
 /* index*/
 .text-landing > p,
 .content > p {
-  font-size: 1.7em;
+  font-size: 1.2em;
   margin-top: 40px;
   color: black;
+  text-align: justify;
 }
 
 #logo {
@@ -115,6 +117,13 @@ h2 > a:hover {
 
 .blue {
   color: #66a0a1 !important;
+}
+
+.bluebutton{
+  margin: 20px;
+  padding: 10 20;
+  background-color: #66a0a1;
+  border: none;
 }
 
 
@@ -156,16 +165,16 @@ h2 > a:hover {
   border: none;
 }
 
-/*Ort*/
-#ortsbild {
-  width: 60%;
-}
 
 
 /*AGB*/
 .buttonfeld {
   display: inline;
   padding-bottom: 50px;
+}
+/*Kontakt*/
+#ortsbild {
+  width: 60%;
 }
 
 
