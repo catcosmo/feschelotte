@@ -87,7 +87,7 @@ h2 > a:hover {
 
 .navbar .nav > li > a {
   color: white;
-  font-size: 2em;
+  font-size: 1.8em;
 }
 
 .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
@@ -97,6 +97,11 @@ h2 > a:hover {
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
     color: #66a0a1;
     background-color: inherit;
+}
+
+
+.menue-wrapper {
+  text-align: center;
 }
 
 
@@ -152,9 +157,7 @@ h2 > a:hover {
 
 }
 
-.menue-wrapper {
-  text-align: center;
-}
+
 
 /* mitmachen*/
 #anmeldebutton,
