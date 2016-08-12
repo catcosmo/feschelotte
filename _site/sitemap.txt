@@ -1,6 +1,7 @@
 
 http://username.github.io/atom.xml
 http://username.github.io/contact/
+http://username.github.io/gallery/
 http://username.github.io/impressum/
 http://username.github.io/mitmachen/
 http://username.github.io/ort/
